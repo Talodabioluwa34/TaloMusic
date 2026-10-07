@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="talo_orange">#FF8232</color>
+    <color name="talo_orange_pressed">#E96F24</color>
+
+    <!-- Dark Theme Colors (Hero Experience) -->
+    <color name="dark_background">#0A0A0A</color>
+    <color name="dark_surface">#141414</color>
+    <color name="dark_surface_elevated">#1C1C1C</color>
+    <color name="dark_surface_strong">#242424</color>
+    <color name="dark_primary_text">#F7F5F2</color>
+    <color name="dark_secondary_text">#A8A29D</color>
+    <color name="dark_tertiary_text">#706B66</color>
+    <color name="dark_divider">#292929</color>
+    <color name="dark_primary_soft">#2A1710</color>
+
+    <!-- Light Theme Colors (Warm Editorial) -->
+    <color name="light_background">#FAF9F7</color>
+    <color name="light_surface">#FFFFFF</color>
+    <color name="light_surface_elevated">#F3F1EE</color>
+    <color name="light_primary_text">#171513</color>
+    <color name="light_secondary_text">#6F6A65</color>
+    <color name="light_tertiary_text">#99928B</color>
+    <color name="light_divider">#E7E2DC</color>
+    <color name="light_primary_soft">#FFF0E7</color>
+</resources>
